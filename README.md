@@ -1,5 +1,5 @@
 # Multi-Room Chat Application
-A Python-based client-server chat application that supports multiple chat rooms with user authentication.
+A Python-based client-server chat application that supports multiple chat rooms with a simple user authentication.
 
 ---
 
@@ -11,7 +11,7 @@ A Python-based client-server chat application that supports multiple chat rooms 
 
 ### **Features**
 
-- 🔐 **User authentication** 
+- 🔐 **Simple user authentication** - To display individual nicknames in chat.
 - 🏠 **Multiple chat room support** 
 - 👥 **Real-time messaging** 
 - 🔄 **Ability to switch between rooms**
