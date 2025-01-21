@@ -12,11 +12,10 @@ A Python-based client-server chat application that supports multiple chat rooms 
 ### **Features**
 
 - 🔐 **Simple user authentication** - To display individual nicknames in chat.
-- 🏠 **Multiple chat room support** 
+- 🏠 **Multiple chat room support** - Room creation not included yet...
 - 👥 **Real-time messaging** 
 - 🔄 **Ability to switch between rooms**
-- 📢 **System notifications** 
-- 🔒 **Thread-safe room management**
+- 🔒 **Thread-safe room management** - Using threading.Lock()
 - 🎨 **MVC architecture pattern**
 
 ---
