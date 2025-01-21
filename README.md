@@ -1,6 +1,6 @@
 # Multi-Room Chat Application
 A Python-based client-server chat application that supports multiple chat rooms with user authentication.
-Features
+
 ---
 
 > **Module Parallel, Multithreaded, Network Programming" lecture - (Part 2 Task 3)**
