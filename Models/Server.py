@@ -117,8 +117,8 @@ class Server:
             if command == "LOGS":
                 if len(cmd_parsed) > 1:  # Check if there's an argument
                     try:
-                        arg = int(cmd_parsed[1])  # Convert argument to integer
-                        if 1 <= arg <= 5:  # Validate argument range (1-5)
+                        arg = int(cmd_parsed[1]) 
+                        if 1 <= arg <= 5:  # Validate - only 5 options allowed for now..
                             result = LoggerController.handle(self, arg)
                             print(result)
                         else:
