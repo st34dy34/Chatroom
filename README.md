@@ -1,5 +1,11 @@
-# Multi-Room Chat Application
+# Multi-Room Console Chat Application
 A Python-based client-server chat application that supports multiple chat rooms with admin panel and a simple user authentication.
+
+<img src="https://i.imgur.com/t7PrXmc.png" alt="description" width="500" />
+
+Meanwhile in the admin console:
+
+<img src="https://i.imgur.com/wKRJfWZ.png" alt="description" width="500" />
 
 ---
 
